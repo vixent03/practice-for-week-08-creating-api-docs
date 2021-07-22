@@ -56,4 +56,4 @@ For example, to edit a specific post, the API endpoint could be
 - Get all the posts of a user
 - Submit a search on posts
 
-[starter]: https://github.com/appacademy/practice-for-week-08-create-api-docs
+[starter]: https://github.com/appacademy/practice-for-week-08-creating-api-docs
