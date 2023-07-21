@@ -77,6 +77,6 @@ For example, to edit a specific post, the API endpoint could be
   get/users/userid/posts
 
 - Submit a search on posts
-   post/search
+   get/posts/search
 
 [starter]: https://github.com/appacademy/practice-for-week-08-creating-api-docs
